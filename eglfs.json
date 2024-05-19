@@ -1,0 +1,9 @@
+{
+  "device": "/dev/dri/card1",
+  "outputs": [
+    {
+      "name": "HDMI1",
+      "mode": "3840x2160"
+    }
+  ]
+}

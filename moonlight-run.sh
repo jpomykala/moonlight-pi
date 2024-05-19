@@ -1,0 +1,1 @@
+nohup ./moonlight-stream.sh &
